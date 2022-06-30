@@ -21,12 +21,12 @@
     <div class="d-flex justify-content-center pt-5 align-items-center my-3">
         <div class="border my-3 px-3 pt-5 position-relative text-center w-40 " style="height:60vh; width: 45vh;">
 
-            <p>
-                <b>Connect to IREMBO</b>
-            </p>
 
-            <div class="position-relative" style="top: 60px";>
-                <button type="button" class=" text-white fw-light w-100 text-start btn-sm" style="background-color:blue;"> Log Out</button>
+                    
+
+        
+            <div class="position-relative" style="top: 150px; width: 80px; ">
+                <button type="button" class=" text-white fw-light w-100 text-start btn-sm " style="background-color:blue;margin-left:80px;"> Log Out</button>
                 
 
             </div>
